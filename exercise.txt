@@ -1,0 +1,8 @@
+Explain what the terminal is in your own words.
+The terminal is another to navigate your computer. Back in the 70s, when computers were first rolled out, 
+they didn't have screens where you could click. So it came with the BIOS and then the terminal. 
+
+What is the major difference between Git and GitHub?
+Git is a terminal language while GitHub is a service used to upload and share files with teams and supervisors.
+
+What are the steps to fork a GitHub repository?
