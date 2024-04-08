@@ -1,4 +1,4 @@
-Explain what the terminal is in your own words.
+Explain what the terminal in your own words:
 The terminal is another to navigate your computer. Back in the 70s, when computers were first rolled out, 
 they didn't have screens where you could click. So it came with the BIOS and then the terminal. 
 
